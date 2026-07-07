@@ -132,6 +132,13 @@ h1,h2,h3{
   font-weight:700; font-size:1.3rem; color:var(--steel);
 }
 
+.badge__photo{
+  width:66px; height:66px;
+  border-radius:50%;
+  object-fit:cover;
+  display:block;
+}
+
 .card h3{font-size:1.12rem; margin-bottom:.15em;}
 .card .role{font-size:.86rem; color:var(--ink-soft); margin-bottom:1em;}
 
